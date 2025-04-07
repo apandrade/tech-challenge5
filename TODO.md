@@ -1,0 +1,4 @@
+- Testar as inferências, adicionar os resultados readme (André)
+- Adicionar as métricas no readme
+- Criar o sistema de avisos por email
+- Criar o vídeo
